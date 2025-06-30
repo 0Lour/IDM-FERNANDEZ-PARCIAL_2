@@ -1,0 +1,57 @@
+.bg-brown {
+  background-color: rgb(226, 75, 75);
+}
+
+.header {
+  font-family: Oswald;
+
+  color: rgb(226, 75, 75);
+}
+
+h2 {
+  background-color: rgb(226, 75, 75);
+  border-radius: 1rem;
+}
+
+.perfilJuego {
+  background-color: rgb(170, 73, 73);
+
+  font-family: Oswald;
+
+  font-weight: lighter;
+
+  margin: 1rem 0;
+
+  padding: 1rem 1rem;
+
+  border-radius: 1rem;
+
+  h3 {
+    background-color: rgb(94, 90, 90);
+  }
+}
+
+.btn-mio {
+  background-color: rgb(94, 90, 90);
+
+  border: none;
+
+  color: white;
+
+  &:hover {
+    background-color: brown;
+  }
+}
+
+form {
+  max-width: 400px;
+  padding: 20px;
+  border: 2px solid #333;
+  border-radius: 8px;
+  background-color: rgb(170, 73, 73);
+  margin: auto;
+}
+
+footer {
+  background-color: rgb(226, 75, 75);
+}
