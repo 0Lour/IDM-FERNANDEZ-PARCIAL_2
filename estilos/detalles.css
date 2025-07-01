@@ -61,6 +61,11 @@ h1 {
   font-weight: bold;
 }
 
+.btn-detalles {
+  background-color: rgb(68, 64, 64);
+  color: #fff;
+}
+
 @media (max-width: 900px) {
   .galeria-img {
     width: 160px;
